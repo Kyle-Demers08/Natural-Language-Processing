@@ -11,7 +11,7 @@ The purpose of this assignment is to have you engage with the ChatGPT: https://c
 
 Learning how to utilize ChatGPT or Large Language models to boost your creativity, as well learn how to and what can be relied on as knowledge from Large Language Models.
 
-## Work:
+---
 
 ## Input 1:
 
