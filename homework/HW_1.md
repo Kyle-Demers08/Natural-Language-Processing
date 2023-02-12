@@ -1,5 +1,6 @@
 ## Kyle Demers
 **HW_1**
+
 **Using Chat GPT for Linguistics Essay**
 
 ## Description:
