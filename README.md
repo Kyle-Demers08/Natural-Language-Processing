@@ -18,6 +18,19 @@ The data will be scraped from social media comments. Using Twarc2 (if twitter is
 
 This might be the most tedious part as I will have to cross track the dates that managers are sacked with the twarc request to pull that data. I also need to find examples of managers in bad form who aren't being sacked (eg. Liverpool) to see how that language differs, and teams who are in good form and don't need to be sacked(eg. Arsenal).
 
+**Will there be problems with the data**
+
+It would be asking to much of a ML to predict the exact date of when a manager is sacked. I want to create a threshold to see if it can predict within 30 days of the sacking and then try again at 15 days etc. There is also the problem of language. Pulling data from clubs outside of England will create replies that aren't in English which would be a problem for the English tokenizer. This means I can only pull data from English clubs or foreign clubs with a seperate English twitter account
+
 **What do you hope to get out of this?**
 
 This model could be useful for people who don't follow every club, but still care enough about the sport to stay informed about the pressure on certain managers, and tune in to see "must win games." On a more personal level, this project will use a lot of skills that can be implemented into my future work as an analytical consultant.
+
+
+## To Do
+
+ - Find dates of managers who have been sacked
+ - scrape data from social media platforms to create a dataset from many different clubs. Ideally this should be about 40% sacked 60% not to get a representation of the normal sackings per season
+ - Create NLP to do sentiment analysis on the data set
+ - Create a ML algorithm to predict when a manager will be sacked based on dates of sentiment analysis 
+ - Export into a medium of information applicable to sharing results.
