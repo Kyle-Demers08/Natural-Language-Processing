@@ -29,8 +29,8 @@ This model could be useful for people who don't follow every club, but still car
 
 ## To Do
 
- - Find dates of managers who have been sacked
- - scrape data from social media platforms to create a dataset from many different clubs. Ideally this should be about 40% sacked 60% not to get a representation of the normal sackings per season
- - Create NLP to do sentiment analysis on the data set
- - Create a ML algorithm to predict when a manager will be sacked based on dates of sentiment analysis 
+ - Find dates of managers who have been sacked.
+ - scrape data from social media platforms to create a dataset from many different clubs. Ideally this should be about 40% sacked 60% not to get a representation of the normal sackings per season.
+ - Create NLP to do sentiment analysis on the data set.
+ - Create a ML algorithm to predict when a manager will be sacked based on dates of sentiment analysis.
  - Export into a medium of information applicable to sharing results.
