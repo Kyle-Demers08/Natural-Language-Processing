@@ -20,7 +20,7 @@ This might be the most tedious part as I will have to cross track the dates that
 
 **Will there be problems with the data**
 
-It would be asking to much of a ML to predict the exact date of when a manager is sacked. I want to create a threshold to see if it can predict within 30 days of the sacking and then try again at 15 days etc. There is also the problem of language. Pulling data from clubs outside of England will create replies that aren't in English which would be a problem for the English tokenizer. This means I can only pull data from English clubs or foreign clubs with a seperate English twitter account
+It would be asking to much of a ML to predict the exact date of when a manager is sacked. I want to create a threshold to see if it can predict within 30 days of the sacking and then try again at 15 days etc. There is also the problem of language. Pulling data from clubs outside of England will create replies that aren't in English which would be a problem for the English tokenizer. This means I can only pull data from English clubs or foreign clubs with a seperate English twitter account.
 
 **What do you hope to get out of this?**
 
