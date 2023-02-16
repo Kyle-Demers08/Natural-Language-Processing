@@ -14,9 +14,10 @@ As a long time avid enjoyer of soccer, I want to study sentiment analysis of com
 
 The data will be scraped from social media comments. Using Twarc2 (if twitter is still available for scraping) I can pull replies to tweets from a variety of clubs. The actual reply itself will be the text I can train a NLP model on, and the timestamp can be used for a ML model to train relative to the date that managers are sacked. 
 
-** Will there be enough data? **
+**Will there be enough data?**
 
 This might be the most tedious part as I will have to cross track the dates that managers are sacked with the twarc request to pull that data. I also need to find examples of managers in bad form who aren't being sacked (eg. Liverpool) to see how that language differs, and teams who are in good form and don't need to be sacked(eg. Arsenal).
 
-** What do you hope to get out of this? **
+**What do you hope to get out of this?**
 
+This model could be useful for people who don't follow every club, but still care enough about the sport to stay informed about the pressure on certain managers, and tune in to see "must win games." On a more personal level, this project will use a lot of skills that can be implemented into my future work as an analytical consultant.
