@@ -1,16 +1,12 @@
 # get_tweets.py
-# Credit: MCW
-
-# More examples at
-# https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research/blob/main/modules/6b-labs-code-standard-python.md
 
 import sys
 import json
 from twarc import Twarc2, expansions
 from configparser import ConfigParser
 
-# CHANGE THIS TO YOUR TWARC CONFIG
-TWARC_CONFIG_FILE = "C:\\Users\\kyled\\AppData\\Roaming\\twarc\\config"
+#TWARC CONFIG
+TWARC_CONFIG_FILE = "################"
 OUTPUT_FILE = str(sys.argv[1]) + '.jsonl'   # line-oriented JSON
 MAX_TWEETS = 60
 
