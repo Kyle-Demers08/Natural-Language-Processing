@@ -1,3 +1,3 @@
-This Serves as a hub to NLP_340 class work.
+The final project is a sentiment analysis on English Premier League tweets. 
 
-From here we can find directories to classwork (WIP), The project, and Homeworks.
+All coursework is stored in the other file
